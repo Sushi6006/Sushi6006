@@ -6,6 +6,8 @@ I am Leyan (Terry) Lin (林乐研) and I go by `Sushi6006` or `SushiCat` on the 
 
 I am an undergraduate student at the University of Melbourne studying Computing and Software Systems (Computer Science). 
 
+--- 
+
 ### GitHub gave me a template so I will use it
 - 🔭 I’m currently working on *an OptaPlanner project, a 2D-scroller game, and my life*
 - 🌱 I’m currently learning *Algorithms and Unity*
@@ -18,6 +20,8 @@ I am an undergraduate student at the University of Melbourne studying Computing 
   - crazy fan about Python one-liner
   - dreaming about being an indie game dev
   - hate learning but love knowledge
+
+---
 
 ### Tools & Languages
 <p>
@@ -43,9 +47,8 @@ I am an undergraduate student at the University of Melbourne studying Computing 
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
 </p>
 
-<br>
-
 --- 
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi6006&hide=html&layout=compact" alt="Top Langs">
   <img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sushi6006&show_icons=true&hide_border=true"/>
