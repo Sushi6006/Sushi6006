@@ -20,7 +20,7 @@ I am an undergraduate student at the University of Melbourne studying Computing 
   - hate learning but love knowledge
 
 ### Tools & Languages
-<table border="0" cellspacing="3">
+<table border="0" bgcolor="#ffffff" cellspacing="3">
   <tr>
     <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg"/></td>
     <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/></td>
