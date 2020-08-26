@@ -49,7 +49,13 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 
 ---
 
+### Recent Activities
 <!--START_SECTION:activity-->
+
+---
+
+### Spotify Now Playing
+![Spotify](https://novatorem.sushi6006.vercel.app/api/spotify)
 
 --- 
 
