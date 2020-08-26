@@ -55,7 +55,7 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 ---
 
 ### Spotify Now Playing
-<img src="https://novatorem.sushi6006.vercel.app/api/spotify-playing" alt="Sushi6006 Spotify Playing" width="350"/>
+<img src="https://sushi6006.vercel.app/api/spotify" alt="Sushi6006 Spotify Playing" width="350"/>
 
 --- 
 
