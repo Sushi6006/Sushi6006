@@ -20,6 +20,30 @@ I am an undergraduate student at the University of Melbourne studying Computing 
   - hate learning but love knowledge
 
 ### Tools & Languages
+<p>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atom.svg"/>
+</p>
+<p>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vsco.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/>
+</p>
+<p>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
+</p>
+
+<!--
 <table border="0" bgcolor="#ffffff" cellspacing="3">
   <tr>
     <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg"/></td>
@@ -44,7 +68,7 @@ I am an undergraduate student at the University of Melbourne studying Computing 
     <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/></td>
   </tr>
 </table>
-
+-->
 <br>
 
 --- 
