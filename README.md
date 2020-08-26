@@ -18,3 +18,5 @@ I am an undergraduate student at the University of Melbourne studying Computing 
   - crazy fan about Python one-liner
   - dreaming about being an indie game dev
   - hate learning but love knowledge
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sushi6006&show_icons=true&hide_border=true" />
