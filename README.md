@@ -19,9 +19,10 @@ I am an undergraduate student at the University of Melbourne studying Computing 
   - dreaming about being an indie game dev
   - hate learning but love knowledge
 
-### Most Used Languages
-<table>
-  <tr>
+--- 
+
+<table border="0" cellspacing="3">
+  <tr valign="top">
     <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi6006" alt="Top Langs"></a></td>
     <td><img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sushi6006&show_icons=true&hide_border=true" /></td>
   </tr>
