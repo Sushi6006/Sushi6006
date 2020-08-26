@@ -7,12 +7,12 @@ I am Leyan (Terry) Lin (林乐研) and I go by Sushi6006 or SushiCat on the Inte
 I am an undergraduate student at the University of Melbourne studying Computing and Software Systems (Computer Science). 
 
 ### GitHub gave me a template so I will use it
-- 🔭 I’m currently working on an OptaPlanner project, a 2D-scroller game, and my life
-- 🌱 I’m currently learning Algorithms and Unity
-- 🤔 I’m looking for help with OptaPlanner and Unity please god help me I am so so so stuck I hate my life
-- 💬 Ask me about anything, but I won't answer you
-- 📫 How to reach me: don't
-- 😄 Pronouns: he/him/his
+- 🔭 I’m currently working on *an OptaPlanner project, a 2D-scroller game, and my life*
+- 🌱 I’m currently learning *Algorithms and Unity*
+- 🤔 I’m looking for help with *OptaPlanner and Unity please god help me I am so so so stuck I hate my life*
+- 💬 Ask me about *anything, but I probably won't answer you*
+- 📫 How to reach me: *don't*
+- 😄 Pronouns: *he/him/his*
 - ⚡ Fun fact:
   - crazy fan about Python one-liner
   - dreaming about being an indie game dev
