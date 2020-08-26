@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Sushi6006 👋
 
 <!--**Sushi6006/Sushi6006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -10,6 +10,7 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 - 🔭 I’m currently working on *an OptaPlanner project, a 2D-scroller game, and my life*
 - 🌱 I’m currently learning *Algorithms and Unity*
 - 🤔 I’m looking for help with *OptaPlanner and Unity please god help me I am so so so stuck I hate my life*
+- ⚽️ 2020 Goals: *live and pass my subjects*
 - 💬 Ask me about *anything, but I probably won't answer you*
 - 📫 How to reach me: *don't*
 - 😄 Pronouns: *he/him/his*
