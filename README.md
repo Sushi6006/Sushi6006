@@ -19,6 +19,26 @@ I am an undergraduate student at the University of Melbourne studying Computing 
   - dreaming about being an indie game dev
   - hate learning but love knowledge
 
+### Tools & Languages
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atom.svg"/>
+<br>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vsco.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/>
+<br/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
+
 --- 
 
 <table border="0" cellspacing="3">
