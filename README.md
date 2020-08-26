@@ -47,15 +47,16 @@ I am an undergraduate student at the University of Melbourne studying Computing 
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
 </p>
 
----
 
-### Recent Activities
+<!-- ### Recent Activities -->
 <!--START_SECTION:activity-->
 
+<!--
 ---
 
 ### Spotify Now Playing
 <img src="https://novatorem-eight-fawn.vercel.app/api/spotify" alt="Sushi6006 Spotify Playing" width="350"/>
+-->
 
 --- 
 
