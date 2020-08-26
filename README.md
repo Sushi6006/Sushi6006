@@ -48,5 +48,5 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 --- 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi6006&hide=html&layout=compact" alt="Top Langs">
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sushi6006&show_icons=true&hide_border=true"/>\
+  <img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sushi6006&show_icons=true&hide_border=true"/>
 </p>
