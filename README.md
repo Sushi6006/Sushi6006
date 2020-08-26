@@ -2,7 +2,7 @@
 
 <!--**Sushi6006/Sushi6006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am Leyan (Terry) Lin (林乐研) and I go by Sushi6006 or SushiCat on the Internet as you can probably already tell. If you can't, you're so blind go see a doctor.
+I am Leyan (Terry) Lin (林乐研) and I go by `Sushi6006` or `SushiCat` on the Internet as you can probably already tell. If you can't, you're so blind go see a doctor.
 
 I am an undergraduate student at the University of Melbourne studying Computing and Software Systems (Computer Science). 
 
