@@ -47,6 +47,10 @@ I am an undergraduate student at the University of Melbourne studying Computing 
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
 </p>
 
+---
+
+<!--START_SECTION:activity-->
+
 --- 
 
 <p>
