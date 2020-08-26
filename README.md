@@ -43,40 +43,10 @@ I am an undergraduate student at the University of Melbourne studying Computing 
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/>
 </p>
 
-<!--
-<table border="0" bgcolor="#ffffff" cellspacing="3">
-  <tr>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atom.svg"/></td>
-  </tr>
-  <tr>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vsco.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/></td>
-  </tr>
-  <tr>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg"/></td>
-    <td><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"/></td>
-  </tr>
-</table>
--->
 <br>
 
 --- 
-
-<table border="0" cellspacing="3">
-  <tr valign="top">
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi6006&hide=html&layout=compact" alt="Top Langs"></td>
-    <td><img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sushi6006&show_icons=true&hide_border=true" /></td>
-  </tr>
-</table>
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi6006&hide=html&layout=compact" alt="Top Langs">
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sushi6006&show_icons=true&hide_border=true"/>\
+</p>
