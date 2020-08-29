@@ -48,7 +48,7 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 </p>
 
 
-<!-- ### Recent Activities -->
+### Recent Activities
 <!--START_SECTION:activity-->
 
 <!--
