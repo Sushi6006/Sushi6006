@@ -57,6 +57,9 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 ---
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
