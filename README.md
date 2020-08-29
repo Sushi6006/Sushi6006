@@ -63,16 +63,15 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 
 --- 
 
-
 <details>
-  <summary>Top Languages</summary>
+  <summary>📊 Top Languages</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi6006&layout=compact" alt="Top Langs">
 </details>
 
 ---
 
 <details>
-  <summary>Sushi6006's GitHub Stats</summary>
+  <summary>📊 Sushi6006's GitHub Stats</summary>
   <img alt="Sushi6006's Github Stats" src="https://github-readme-stats.sushi6006.vercel.app/api?username=Sushi6006&show_icons=true"/>
 </details>
   
