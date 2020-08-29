@@ -74,6 +74,7 @@ No Activity tracked this Week
 
 <details>
   <summary>📊 Top Languages</summary>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi6006&layout=compact" alt="Top Langs">
 </details>
 
@@ -81,6 +82,7 @@ No Activity tracked this Week
 
 <details>
   <summary>📊 Sushi6006's GitHub Stats</summary>
+  <br>
   <img alt="Sushi6006's Github Stats" src="https://github-readme-stats.sushi6006.vercel.app/api?username=Sushi6006&show_icons=true"/>
 </details>
   
