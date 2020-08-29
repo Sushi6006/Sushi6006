@@ -54,6 +54,12 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 1. ❗️ Opened issue [#1](https://github.com//Sushi6006/ideal-opta-journey/issues/1) in [Sushi6006/ideal-opta-journey](https://github.com//Sushi6006/ideal-opta-journey)
 <!--END_SECTION:activity-->
 
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--
 ---
 
