@@ -57,7 +57,7 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue)
 
 **🐱 My Github Data** 
 
