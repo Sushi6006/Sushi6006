@@ -57,11 +57,11 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 170 Contributions in the year 2020
+> 🏆 169 Contributions in the year 2020
  > 
 > 📦 681.6 kB Used in Github's Storage 
  > 
