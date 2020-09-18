@@ -61,7 +61,7 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 
 **🐱 My Github Data** 
 
-> 🏆 178 Contributions in the year 2020
+> 🏆 177 Contributions in the year 2020
  > 
 > 📦 681.9 kB Used in Github's Storage 
  > 
