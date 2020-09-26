@@ -51,7 +51,7 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Sushi6006/bug-free-potato/pull/1) in [Sushi6006/bug-free-potato](https://github.com//Sushi6006/bug-free-potato)
+1. 🎉 Merged PR [#1](https://github.com/Sushi6006/bug-free-potato/pull/1) in [Sushi6006/bug-free-potato](https://github.com/Sushi6006/bug-free-potato)
 <!--END_SECTION:activity-->
 
 ---
