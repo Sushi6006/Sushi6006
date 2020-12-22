@@ -51,7 +51,7 @@ I am an undergraduate student at the University of Melbourne studying Computing 
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#718](https://github.com/Miodec/monkeytype/issues/718) in [Miodec/monkeytype](https://github.com/Miodec/monkeytype)
+1. 🎉 Merged PR [#3](https://github.com/Sushi6006/ideal-opta-journey/pull/3) in [Sushi6006/ideal-opta-journey](https://github.com/Sushi6006/ideal-opta-journey)
 <!--END_SECTION:activity-->
 
 ---
