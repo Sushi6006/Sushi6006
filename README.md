@@ -138,7 +138,9 @@ C                        2 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/Sushi6006/Sushi6006/blob/master/charts/bar_graph.png) 
+![Chart not found](https://github.com/Sushi6006/Sushi6006/blob/master/charts/bar_graph.png)
+
+<figure><embed src="https://wakatime.com/share/@5399c50a-a5c5-4e61-9cf5-98cb25435a8a/a018a899-49a5-4b98-8d25-278dab2c20c9.svg"></embed></figure>
 
 
 <!--END_SECTION:waka-->
